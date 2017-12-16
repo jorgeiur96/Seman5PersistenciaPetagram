@@ -13,7 +13,7 @@
         android:title="5Favoritos"
         app:showAsAction="always"
         android:icon="@drawable/star5"
-        app:elevation="@dimen/elevation_flowactionbutton">
+        app:elevation="20dp">
     </item>
 
 
